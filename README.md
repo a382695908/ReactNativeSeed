@@ -8,8 +8,11 @@
  - yarn
  - react-native run-android
 
-#### 预览
+#### 运行预览
  <img src="/doc/rn-a.png" width = "600" height = "430" align=center />
+
+#### 打包流程说明（具体参考教程）
+  <img src="/doc/rn-build.png" width = "600" height = "430" align=center />
 
 #### 注意
   - 运行此项目需要本地搭建node，react-native，android环境（可以参考上述博客）
